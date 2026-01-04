@@ -298,7 +298,7 @@ async function endQuiz() {
     "bot"
   );
 
-  showContextButtons(["history", "parts", "play", "culture", "sound", "quiz"]);
+  showContextButtons(["history", "parts", "play", "culture", "sound"]);
 }
 
 
